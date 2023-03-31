@@ -22,7 +22,7 @@ h2 {
   margin: 20px auto;
   padding: 10px;
   border-radius: 5px;
-  box-shadow: 5px 5px 30px rgb(73, 73, 73, 0.2);
+  box-shadow: 5px 5px 9px rgb(73, 73, 73, 0.2);
 }
 
 img {
@@ -50,9 +50,10 @@ i {
 button {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-weight: 100;
+  font-size: 20px;
 }
 
-a:hover {
+i:hover {
   background-color: rgb(203, 50, 157);
 }
 
