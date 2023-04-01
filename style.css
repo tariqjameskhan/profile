@@ -18,7 +18,7 @@ h2 {
 
 .card {
   text-align: center;
-  background-color: rgba(223, 225, 230, 0.638);
+  background-color: rgb(179 190 216);
   margin: 20px auto;
   padding: 10px;
   border-radius: 5px;
@@ -31,6 +31,10 @@ img {
 
 #image_background {
   background-image: url("images/NvL.gif");
+}
+
+#bottom-header {
+  background-color: rgb(23, 23, 75);
 }
 
 body {
